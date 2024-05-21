@@ -7,7 +7,7 @@ Pause/Resume: Pause or resume the stopwatch with a single click.
 Clear: Reset the stopwatch to zero.
 📸 Screenshots
 
-![Alt text](src/assets/Screenshot(12).png)
+![Alt text](src/assets/Screenshot.png)
 
 
 🛠️ Installation
